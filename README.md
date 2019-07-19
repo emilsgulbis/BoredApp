@@ -1,5 +1,5 @@
 # Bored App
-bored-app.netlify.com
+https://bored-app.netlify.com/
 
 ![Bored App screenshot](sceenshot.png?raw=true "Screenshot")
 
